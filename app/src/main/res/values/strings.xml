@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PF Form</string>
+    <string name="name">Name</string>
+    <string name="message">Message</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="done">Done</string>
+    <string name="check">Check</string>
+</resources>
