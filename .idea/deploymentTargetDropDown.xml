@@ -3,15 +3,15 @@
   <component name="deploymentTargetDropDown">
     <targetSelectedWithDropDown>
       <Target>
-        <type value="COLD_BOOT_TARGET" />
+        <type value="QUICK_BOOT_TARGET" />
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\Office\.android\avd\SMART_PHONE.avd" />
+            <value value="C:\Users\Office\.android\avd\My_Phone.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2023-05-22T10:19:37.648665Z" />
+    <timeTargetWasSelectedWithDropDown value="2023-05-16T08:33:05.261682800Z" />
   </component>
 </project>
